@@ -10,7 +10,7 @@ public class Main_S1_23350_K물류창고 {
 	// 문제에서 주어진 정보
 	private static int N, M;
 	private static Queue<int[]> q;
-	// 문제에서 주어진 정보 바탕으로 내가 파생되는 정보
+	// 문제에서 주어진 정보에서 파생되는 정보
 	private static ArrayDeque<int[]> loadSpace; // 적재 공간, 스택으로만 사용
 	private static int[] numM;
 
